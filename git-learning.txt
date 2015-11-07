@@ -1,0 +1,9 @@
+初始化仓库
+
+$ git init
+
+添加要跟踪的
+
+$git add *.
+
+clone 
