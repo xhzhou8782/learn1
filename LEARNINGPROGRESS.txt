@@ -19,6 +19,8 @@ $git push  (提交到远程服务器）
 $git status
 $git diff
 
+删除操作
 
-git remove ??
+
+
 
